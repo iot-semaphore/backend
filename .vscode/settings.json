@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/unnamedd/.platformio/penv/bin:/usr/local/var/swiftenv/shims:/Users/unnamedd/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/opt/curl/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Applications/Zerynth Studio.app/Contents/Resources/app.nw/ztc/mac"
+    },
+    "editor.quickSuggestions": false
+}
