@@ -20,8 +20,7 @@ let package = Package(
                     "Public",
                     "Resources",
                 ]),
-        .target(name: "Run", dependencies: ["App"]),
-        .testTarget(name: "AppTests", dependencies: ["App", "Testing"])
+        .target(name: "Run", dependencies: ["App"])
     ]
 )
 
