@@ -1,3 +1,3 @@
 {
-  "url": "mongodb://localhost:27017/semaphore"
+  "url": "$MONGODB_URI"
 }
